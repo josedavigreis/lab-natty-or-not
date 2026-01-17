@@ -44,6 +44,8 @@ O foco foi deixar o resultado o mais “humano” possível, mesmo partindo de u
 - Dois microcontos originais de terror psicológico;
 - Estrutura pronta para um mini e-book em PDF;
 - Um projeto criativo que demonstra uso consciente de IA;
+- 📘 E-book em PDF: [Você Ainda Está Acordado?](./E-book_microcontos_terror.pdf)
+
 
 ## 💭 Reflexão
 Criar algo “natty” com IA exige mais do que apenas gerar conteúdo: é preciso curadoria, intenção e sensibilidade humana.  
