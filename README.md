@@ -17,26 +17,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: Dois Microcontos de Terror
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta um mini e-book composto por dois microcontos de terror criados com o auxílio de Inteligência Artificial e refinados manualmente.  
+O objetivo é provocar no leitor a dúvida central do desafio:  
+**isso foi escrito por um humano ou por uma IA?**
+
+As histórias exploram suspense psicológico, tecnologia e medo cotidiano, buscando um tom realista, minimalista e inquietante.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (geração base dos textos)
+- Leonardo AI para geração de imagens por IA (para capa do e-book)
+- Canva para juntar ambos e assim gerar um e-book
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Defini o conceito do projeto: microcontos de terror no estilo “Natty or Not”.
+2. Solicitei à IA (ChatGPT) histórias extremamente curtas com foco em suspense tecnológico.
+3. Reescrevi manualmente trechos para ajustar ritmo, naturalidade e impacto emocional.
+4. Selecionei dois contos que transmitissem estranhamento imediato.
+5. Organizei os textos em formato de e-book e planejei uma capa e uma contracapa gerada por IA.
+
+O foco foi deixar o resultado o mais “humano” possível, mesmo partindo de uma base artificial.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Dois microcontos originais de terror psicológico;
+- Estrutura pronta para um mini e-book em PDF;
+- Um projeto criativo que demonstra uso consciente de IA;
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar algo “natty” com IA exige mais do que apenas gerar conteúdo: é preciso curadoria, intenção e sensibilidade humana.  
+A IA fornece a matéria-prima, mas o impacto emocional ainda depende de quem escolhe, corta, ajusta e decide o que realmente merece existir.
 
 ### Exemplos e Insigths
 
